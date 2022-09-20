@@ -30,5 +30,5 @@ for (int i = 0; i < array.Length; i++)
 
 for (int i = 0; i < newarraylength; i++)//цикл вывода нового массива 
 {
-    Console.WriteLine(newarray[i]);
+    Console.Write(newarray[i]+ " ");
 }
